@@ -4,7 +4,13 @@
 Projects related to neural networks and tensorflow. 
 
 
-# Project 1: 
+# Project 1: Auto-mpg 
 
-Auto MPG Dataset from UCI machine learning repo. This includes data cleaning + EDA + Building a Neural Network Model to make predictions for miles per gallon of different model cars. 
+Auto-mpg is a small dataset from UCI Machine Learning Repo. 
+
+Ipython notebook is uploaded in Project 1 folder which includes the Data cleaning + EDA + Building a neural network model to make predictions for cars miles per gallons. 
+Below is the link to kaggle kernel for same notebook. 
+https://www.kaggle.com/akseersafdar/auto-mpg-eda-and-model-building
+
+
 
