@@ -4,7 +4,7 @@
 Projects related to neural networks and tensorflow. 
 
 
-# Project 1: Auto-mpg 
+# Auto-mpg 
 
 Auto-mpg is a small dataset from UCI Machine Learning Repo. 
 
